@@ -1,0 +1,6 @@
+numpy
+pandas
+altair
+pyomo
+glpk
+vega

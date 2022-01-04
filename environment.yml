@@ -1,0 +1,14 @@
+name: battery_model
+channels:
+    - defaults
+    - conda-forge
+dependencies:
+    - python=3
+    - numpy
+    - pandas
+    - jupyterlab
+    - nb_conda_kernels
+    - altair
+    - pyomo
+    - glpk
+    - vega
